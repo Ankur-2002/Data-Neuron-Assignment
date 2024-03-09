@@ -1,0 +1,22 @@
+.todo-tile-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.input-todo-tile {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  border: none;
+  /* border-radius: 5px; */
+  width: 100%;
+}
+
+.input-todo-tile:disabled {
+  background-color: transparent;
+  color: black;
+}

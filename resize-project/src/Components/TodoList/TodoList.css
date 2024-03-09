@@ -1,0 +1,19 @@
+.todo-container {
+  /* margin: auto; */
+  /* width: max-content; */
+  padding: 1rem;
+}
+
+.add-button {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  font-size: 1.2rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.TodoList {
+}
