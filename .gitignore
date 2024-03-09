@@ -2,4 +2,4 @@
 
 /resize-project/node_modules
 
-/env
+.env
